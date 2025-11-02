@@ -1,6 +1,11 @@
 ---
-revision_id: b366f65c-01a9-11e6-b709-0e119022a463
-revision_date: 1460573905
+title: LD Carlson Additives
+description: 
+published: true
+date: 2025-11-02T15:15:06.266Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:31:15.789Z
 ---
 
 ## How do I use the L.D. Carlson "Energizer" and "Nutrient" additives?
