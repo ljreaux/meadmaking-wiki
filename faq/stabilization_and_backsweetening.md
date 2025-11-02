@@ -1,6 +1,11 @@
 ---
-revision_id: d3a5a686-3156-11e9-8d9f-0e6ee4dc5898
-revision_date: 1550258459
+title: Stabilization and Backsweetening
+description: 
+published: true
+date: 2025-11-02T15:15:42.954Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:31:22.341Z
 ---
 
 ## Stabilization and Back Sweetening
