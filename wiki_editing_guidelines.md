@@ -1,11 +1,11 @@
 ---
 title: wiki_editing_guidelines
 description: 
-published: 1
-date: 2025-02-06T00:31:31.158Z
+published: false
+date: 2025-11-02T15:11:57.718Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-12T14:58:12.698Z
+dateCreated: 2025-11-02T14:30:27.676Z
 ---
 
 # Editing Guidelines
