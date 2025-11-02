@@ -1,6 +1,11 @@
 ---
-revision_id: a4e081aa-628f-11ec-bd2f-ced5589767c3
-revision_date: 1640112962
+title: Please Help
+description: 
+published: true
+date: 2025-11-02T15:10:34.079Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:30:16.495Z
 ---
 
 ## Please Help!
