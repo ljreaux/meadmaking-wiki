@@ -1,11 +1,11 @@
 ---
 title: Competition
 description: 
-published: 1
-date: 2023-06-12T22:50:56.787Z
+published: false
+date: 2025-11-02T15:24:46.300Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-12T14:59:24.538Z
+dateCreated: 2025-11-02T14:31:33.283Z
 ---
 
 # Competitions
