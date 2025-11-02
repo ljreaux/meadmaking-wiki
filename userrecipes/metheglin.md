@@ -1,6 +1,11 @@
 ---
-revision_id: 1d3dcd87-4303-11eb-8a83-0e1e675dc1f1
-revision_date: 1608496622
+title: Metheglin
+description: 
+published: true
+date: 2025-11-02T15:23:28.862Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:34:09.828Z
 ---
 
 ## Metheglin
