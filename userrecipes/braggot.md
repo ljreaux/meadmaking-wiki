@@ -1,6 +1,11 @@
 ---
-revision_id: 8c199a56-8cf8-11ec-be10-9a912f1121d7
-revision_date: 1644775967
+title: Braggot
+description: 
+published: true
+date: 2025-11-02T15:20:34.114Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:33:55.549Z
 ---
 
 ## Braggot
