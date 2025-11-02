@@ -1,11 +1,11 @@
 ---
 title: Fruit
 description: 
-published: 1
-date: 2023-06-12T22:53:01.886Z
+published: false
+date: 2025-11-02T15:25:45.879Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-12T14:59:30.339Z
+dateCreated: 2025-11-02T14:31:39.824Z
 ---
 
 ## Fruit
