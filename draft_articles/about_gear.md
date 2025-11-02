@@ -1,6 +1,11 @@
 ---
-revision_id: f418d264-e5eb-11ed-b2ef-3a3344cd7d75
-revision_date: 1682703709
+title: about_gear
+description: 
+published: false
+date: 2025-11-02T14:49:48.640Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:30:32.224Z
 ---
 
 draft (via ChatGPT)
