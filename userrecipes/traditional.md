@@ -1,6 +1,11 @@
 ---
-revision_id: 8c0c36a9-42f4-11eb-ab96-0eff1c837a2d
-revision_date: 1608490365
+title: Traditional
+description: 
+published: true
+date: 2025-11-02T15:23:53.081Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:34:13.324Z
 ---
 
 ## Traditional
