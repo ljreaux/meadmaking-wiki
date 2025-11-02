@@ -1,6 +1,11 @@
 ---
-revision_id: a2f0d128-440a-11e6-affb-0e7edefd734d
-revision_date: 1467872315
+title: Yeast Selection
+description: 
+published: true
+date: 2025-11-02T15:16:25.641Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:31:26.229Z
 ---
 
 ## Where do I find yeast? What type should I use?
