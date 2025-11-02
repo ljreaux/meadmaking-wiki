@@ -1,6 +1,11 @@
 ---
-revision_id: 1f969505-4a42-11eb-a589-0e44d4455a19
-revision_date: 1609293342
+title: Bochet
+description: 
+published: true
+date: 2025-11-02T15:19:54.658Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:33:52.055Z
 ---
 
 ## Bochet
