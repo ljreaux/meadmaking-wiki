@@ -1,6 +1,11 @@
 ---
-revision_id: 54ad11b6-05e7-11ed-ab05-febb1ee47104
-revision_date: 1658072663
+title: Infection
+description: 
+published: true
+date: 2025-11-02T15:17:41.758Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:31:07.642Z
 ---
 
 ## I think my mead is infected!
