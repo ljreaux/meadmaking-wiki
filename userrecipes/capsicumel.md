@@ -1,6 +1,11 @@
 ---
-revision_id: 4d1ab9e5-4301-11eb-a466-0ec84dbf20cf
-revision_date: 1608495843
+title: Capsicumel
+description: 
+published: true
+date: 2025-11-02T15:20:50.999Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-02T14:33:59.193Z
 ---
 
 ## Capsicumel
