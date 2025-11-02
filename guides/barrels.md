@@ -1,11 +1,11 @@
 ---
 title: Barrels
 description: 
-published: 1
-date: 2023-06-12T22:50:33.402Z
+published: false
+date: 2025-11-02T15:02:35.595Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-12T14:59:21.625Z
+dateCreated: 2025-11-02T14:31:30.168Z
 ---
 
 ## Barrels
