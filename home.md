@@ -140,6 +140,8 @@ ____
 
 * [Bottling, Kegging, and Other Packaging Options](/process/packaging)
 
+* [Priming for Bottle Conditioning](/process/priming)
+
 
 -----
 
