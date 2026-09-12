@@ -20,9 +20,9 @@ Always confirm that your mead is stable before storing in sealed vessels or pack
 
 ### Via Chemical Additives
 
-There are two chemical additives widely used together to stabilize mead: potassium metabisulfite and potassium sorbate. In summary, potassium metabisulfite (k-meta) removes oxygen, resulting in a severely lower yeast population that can reestablish fermentation in time; potassium sorbate (k-sorb) effectively sterilizes any remaining yeast so they cannot reproduce. Together they are very effective at preventing further fermentation, but probably not effective at completely stopping a healthy fermentation. 
+There are two chemical additives widely used together to stabilize mead: potassium metabisulfite and potassium sorbate. In summary, potassium metabisulfite (k-meta) removes oxygen, resulting in a severely lower yeast population that can reestablish fermentation in time; potassium sorbate (k-sorb) effectively sterilizes any remaining yeast so they cannot reproduce. Together they are very effective at preventing further fermentation, but probably not effective at completely stopping a healthy fermentation. Generally, they should be used as a pair to stabilize; not one without the other (caveats to follow).
 
-When back sweetening, you may wish to wait 24 hours after adding stabilizers to add the additional sugar. Fermentation has been known to restart when racking a mead with residual sugar.
+When back sweetening, always wait at least 24 hours after adding stabilizers to add any additional sugar. Fermentation has been known to restart when racking a mead with residual sugar, or after adding additional sugars before the 24 hour mark. Don't forget that fruit additions will also provide fermentable sugars, not just more obvious things like honey and table sugar.
 
 Potassium metabisulfite and potassium sorbate should be used only when the mead has fermented dry or fermentation has stopped for other reasons (cold crashing, or the yeast reaching alcohol tolerance). Confirm that a fermentation has stopped by taking two hydrometer readings a week apart. If they are not the same, fermentation is still ongoing and chemical stabilization will not reliably prevent refermentation.
 
