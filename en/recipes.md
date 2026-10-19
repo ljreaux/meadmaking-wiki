@@ -58,6 +58,12 @@ Have fun!
 
 [Sparkling Hydromel](/recipes/hydromels/0001) by /u/balathustrius
 
+### Historical
+
+[Historical Recipes](/recipes/historical), translated by /u/ralfv
+
+Close English translations of medieval and early modern mead recipes (c. 1350–1581). Start with the historical introduction for context on reading the original methods and how these differ from modern recipes.
+
 ### Other
 
 [Bochet](/recipes/other/0001) by /u/StormBeforeDawn
