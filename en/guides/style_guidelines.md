@@ -2,7 +2,7 @@
 title: Style Guidelines
 description: An overview of mead style categories and competition classification systems.
 published: true
-date: 2025-11-02T14:31:45.999Z
+date: 2026-10-19T19:03:09.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:43.344Z

@@ -2,7 +2,7 @@
 title: Headspace
 description: How headspace needs differ during active fermentation and aging.
 published: true
-date: 2025-11-02T14:31:22.332Z
+date: 2026-10-19T19:02:38.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:53.416Z

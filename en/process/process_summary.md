@@ -2,7 +2,7 @@
 title: Process Summary
 description: A reference connecting the main stages and techniques of meadmaking.
 published: true
-date: 2025-11-02T14:33:08.286Z
+date: 2026-10-19T19:04:03.226Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:05.895Z

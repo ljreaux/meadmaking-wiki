@@ -2,10 +2,10 @@
 title: Hopped Sage Mead (Würzburg, c. 1350)
 description: Hopped mead with sage from the Book of Good Food
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:33:48.843Z
 tags: historical, metheglin
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:46.848Z
 ---
 
 ## Hopped Sage Mead (Würzburg, c. 1350)

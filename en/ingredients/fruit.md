@@ -2,7 +2,7 @@
 title: Fruit
 description: Finding, selecting, and preparing fruit for mead.
 published: true
-date: 2025-11-02T14:32:00.918Z
+date: 2026-10-19T19:03:18.302Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:58.668Z

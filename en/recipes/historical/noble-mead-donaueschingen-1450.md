@@ -2,10 +2,10 @@
 title: Noble Mead, Boiled Down by a Third (Lake Constance, c. 1450)
 description: Plain honey-and-water mead on a commercial scale, boiled down by a third
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:34:03.255Z
 tags: historical, traditional
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:34:01.350Z
 ---
 
 ## Noble Mead, Boiled Down by a Third (Lake Constance, c. 1450)

@@ -2,7 +2,7 @@
 title: Getting Started
 description: An introduction to meadmaking, basic equipment, ingredients, and further reading.
 published: true
-date: 2025-11-02T14:33:41.143Z
+date: 2026-10-19T19:02:34.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:46.991Z

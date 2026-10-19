@@ -2,7 +2,7 @@
 title: User Melomel Recipes
 description: Community recipes featuring fruit-forward flavors.
 published: true
-date: 2025-11-02T15:23:13.916Z
+date: 2026-10-19T19:05:10.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:34:05.959Z

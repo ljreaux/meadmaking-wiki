@@ -2,7 +2,7 @@
 title: Using a Hydrometer
 description: How hydrometers measure specific gravity and help track fermentation.
 published: true
-date: 2025-11-02T14:33:19.731Z
+date: 2026-10-19T19:02:42.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:00.536Z

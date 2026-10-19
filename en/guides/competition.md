@@ -2,7 +2,7 @@
 title: Mead Competitions
 description: An unfinished guide to competition styles, entries, judging, and feedback.
 published: false
-date: 2025-11-02T15:24:49.045Z
+date: 2026-10-19T19:03:02.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:33.283Z

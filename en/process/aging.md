@@ -2,7 +2,7 @@
 title: Aging
 description: Bulk and bottle aging, storage conditions, and how mead changes over time.
 published: true
-date: 2025-11-02T14:32:51.665Z
+date: 2026-10-19T19:03:36.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:26.545Z

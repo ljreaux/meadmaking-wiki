@@ -2,7 +2,7 @@
 title: Reading List
 description: Books, websites, and other references for learning more about meadmaking.
 published: true
-date: 2025-11-02T14:33:47.817Z
+date: 2026-10-19T19:04:55.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:44.469Z

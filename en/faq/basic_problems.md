@@ -2,7 +2,7 @@
 title: Basic Problems
 description: Troubleshooting common fermentation problems and unexpected appearances.
 published: true
-date: 2025-11-02T14:33:41.143Z
+date: 2026-10-19T19:02:30.866Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:40.440Z

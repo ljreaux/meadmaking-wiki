@@ -2,7 +2,7 @@
 title: User Braggot Recipes
 description: Community recipes combining mead and beer ingredients.
 published: true
-date: 2025-11-02T15:20:36.715Z
+date: 2026-10-19T19:05:04.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:55.549Z

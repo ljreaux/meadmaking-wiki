@@ -2,7 +2,7 @@
 title: Illegal Ingredients
 description: Community guidance on dangerous, controlled, and legally questionable ingredients.
 published: true
-date: 2025-11-02T14:31:06.148Z
+date: 2026-10-19T19:02:44.831Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:03.856Z

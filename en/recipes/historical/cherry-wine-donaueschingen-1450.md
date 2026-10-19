@@ -2,10 +2,10 @@
 title: Buolach's Spiced Cherry Mead (Rottweil, c. 1450)
 description: Honey and unfermented cherry juice, spiced in the cask
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:33:45.895Z
 tags: historical, melomel, metheglin
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:43.777Z
 ---
 
 ## Buolach's Spiced Cherry Mead (Rottweil, c. 1450)

@@ -2,10 +2,10 @@
 title: Hopped Red Mead (Nuremberg, c. 1389)
 description: Hopped mead with a warm-room starter and caramelized honey for colour
 published: true
-date: 2026-10-19T00:00:00.000Z
-tags: historical, metheglin, bochet
+date: 2026-10-19T18:33:54.574Z
+tags: historical, bochet, metheglin
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:52.645Z
 ---
 
 ## Hopped Red Mead (Nuremberg, c. 1389)

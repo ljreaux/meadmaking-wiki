@@ -2,7 +2,7 @@
 title: Yeast
 description: Yeast strain characteristics and factors to consider when selecting a culture.
 published: true
-date: 2025-11-02T14:32:22.234Z
+date: 2026-10-19T19:03:30.789Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:19.801Z

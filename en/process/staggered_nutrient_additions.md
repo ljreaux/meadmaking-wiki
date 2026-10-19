@@ -2,7 +2,7 @@
 title: Staggered Nutrient Additions
 description: Background on splitting nutrient additions across the course of fermentation.
 published: true
-date: 2025-11-02T14:33:41.143Z
+date: 2026-10-19T19:04:10.515Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:19.752Z

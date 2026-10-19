@@ -1,8 +1,8 @@
 ---
-title: Main Page
-description: The main page
+title: Modern Meadmaking Wiki
+description: Guides, frequently asked questions, recipes, and resources for making mead.
 published: true
-date: 2026-08-12T01:31:49.844Z
+date: 2026-10-19T19:05:17.078Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:12.559Z
@@ -19,10 +19,11 @@ This platform should not be used to reproduce copyrighted works or data.
 -----
 ## Help Us!
 
+**Please refer to the [Editing Guidelines](/wiki_editing_guidelines) before editing this wiki. If you abuse editing privileges, you will lose them.**
+
+That said, *please help.*
+
 If you'd like to contribute, but aren't sure where to start, look no further. [There's a list](/please_help) of pages that need content or fleshing out. Please update the list as you complete items. 
-
-To gain access to contribute, create an account and contact larry_r on [discord](https://discord.gg/Wbx9DWWqFC) or through the [MeadTools contact form](https://meadtools.com/contact).
-
 ____
 
 ### F.A.Q.

@@ -2,7 +2,7 @@
 title: Academic Journals
 description: Research papers and journals related to fermentation, yeast health, and meadmaking.
 published: true
-date: 2025-11-02T14:33:33.230Z
+date: 2026-10-19T19:04:47.347Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:30.994Z

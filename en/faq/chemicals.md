@@ -2,7 +2,7 @@
 title: Chemicals in Meadmaking
 description: A discussion of brewing additives, their purposes, and common concerns.
 published: true
-date: 2025-11-02T14:32:12.957Z
+date: 2026-10-19T19:02:32.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:43.648Z
