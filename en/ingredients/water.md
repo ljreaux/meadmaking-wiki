@@ -1,6 +1,6 @@
 ---
-title: Water
-description: 
+title: Choosing Water
+description: Considerations for choosing tap, bottled, and other water sources for mead.
 published: true
 date: 2025-11-02T14:32:18.672Z
 tags: 

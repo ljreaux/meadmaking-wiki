@@ -1,6 +1,6 @@
 ---
-title: Glass Vs. Plastic
-description: 
+title: Glass vs. Plastic Fermenters
+description: Compare the advantages and disadvantages of glass and plastic fermentation vessels.
 published: true
 date: 2025-11-02T14:30:52.454Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Fermentation
-description: 
+description: Factors that influence yeast activity, fermentation progress, and mead quality.
 published: true
 date: 2025-11-02T14:32:46.565Z
 tags: 

@@ -1,6 +1,6 @@
 ---
-title: userrecipes
-description: 
+title: User Recipes
+description: A collection of community-contributed mead recipes organized by style.
 published: true
 date: 2025-11-02T14:34:16.582Z
 tags: 

@@ -1,6 +1,6 @@
 ---
-title: recipes
-description: 
+title: Recipes
+description: An index of beginner, traditional, fruit, spiced, and historical mead recipes.
 published: true
 date: 2025-11-02T14:35:03.553Z
 tags: 

@@ -1,6 +1,6 @@
 ---
-title: License
-description: 
+title: Wiki Licensing
+description: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license for wiki content.
 published: true
 date: 2025-11-02T14:30:07.626Z
 tags: 

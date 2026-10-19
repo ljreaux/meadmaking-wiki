@@ -1,6 +1,6 @@
 ---
 title: Yeast Handling
-description: 
+description: Pitch rates, viability, storage, and other yeast handling considerations.
 published: true
 date: 2025-11-02T14:31:57.595Z
 tags: 

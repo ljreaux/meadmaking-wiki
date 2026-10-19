@@ -1,6 +1,6 @@
 ---
-title: Melomel
-description: 
+title: User Melomel Recipes
+description: Community recipes featuring fruit-forward flavors.
 published: true
 date: 2025-11-02T15:23:13.916Z
 tags: 

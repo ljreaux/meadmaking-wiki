@@ -1,6 +1,6 @@
 ---
-title: Bochet
-description: 
+title: User Bochet Recipes
+description: Community recipes featuring caramelized honey.
 published: true
 date: 2025-11-02T15:19:57.666Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Basic Problems
-description: 
+description: Troubleshooting common fermentation problems and unexpected appearances.
 published: true
 date: 2025-11-02T14:33:41.143Z
 tags: 

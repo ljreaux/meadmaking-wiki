@@ -1,6 +1,6 @@
 ---
-title: Terminology
-description: 
+title: Meadmaking Terminology
+description: Definitions of fermentation and brewing terms used throughout the wiki.
 published: true
 date: 2026-04-23T02:28:30.599Z
 tags: 

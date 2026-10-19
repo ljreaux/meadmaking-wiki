@@ -1,6 +1,6 @@
 ---
 title: Fining Agents
-description: 
+description: Clarification methods, fining agents, and their effects on mead.
 published: true
 date: 2026-04-23T01:44:37.176Z
 tags: 

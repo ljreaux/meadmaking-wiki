@@ -1,6 +1,6 @@
 ---
 title: Bench Trials
-description: 
+description: Using small samples to compare additions before adjusting a full batch.
 published: true
 date: 2026-08-12T01:18:31.776Z
 tags: 

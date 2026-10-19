@@ -1,6 +1,6 @@
 ---
-title: Balancing
-description: 
+title: Balancing Mead
+description: How sweetness, acidity, tannin, alcohol, and other components shape flavor balance.
 published: true
 date: 2025-11-02T14:33:19.731Z
 tags: 

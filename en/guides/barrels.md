@@ -1,6 +1,6 @@
 ---
 title: Barrels
-description: 
+description: An unfinished outline covering barrel benefits, sourcing, and maintenance.
 published: false
 date: 2025-11-02T15:02:38.529Z
 tags: 

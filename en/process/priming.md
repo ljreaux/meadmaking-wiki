@@ -1,6 +1,6 @@
 ---
 title: Priming for Bottle Conditioning
-description: 
+description: An overview of priming sugar and carbonation through bottle conditioning.
 published: true
 date: 2026-09-02T15:05:10.000Z
 tags: 

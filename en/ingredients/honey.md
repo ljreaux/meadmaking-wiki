@@ -1,6 +1,6 @@
 ---
 title: Honey
-description: 
+description: Honey composition, varieties, and its role as the defining ingredient in mead.
 published: true
 date: 2025-11-02T14:32:08.330Z
 tags: 
