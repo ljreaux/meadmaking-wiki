@@ -1,6 +1,6 @@
 ---
 title: Fruit
-description: 
+description: Finding, selecting, and preparing fruit for mead.
 published: true
 date: 2025-11-02T14:32:00.918Z
 tags: 

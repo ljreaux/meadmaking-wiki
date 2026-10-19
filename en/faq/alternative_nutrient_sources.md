@@ -1,6 +1,6 @@
 ---
 title: Alternative Nutrient Sources
-description: 
+description: An overview of alternatives to commercial yeast nutrients.
 published: true
 date: 2025-11-02T14:32:12.957Z
 tags: 

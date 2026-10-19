@@ -1,6 +1,6 @@
 ---
-title: Please Help
-description: 
+title: Contributing to the Wiki
+description: Pages that need proofreading, formatting, or additional content.
 published: true
 date: 2025-11-02T15:13:35.798Z
 tags: 

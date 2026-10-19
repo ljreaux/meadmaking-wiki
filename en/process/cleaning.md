@@ -1,6 +1,6 @@
 ---
 title: Cleaning
-description: 
+description: Removing residue from brewing equipment and understanding how cleaning differs from sanitation.
 published: true
 date: 2025-11-02T14:33:16.190Z
 tags: 

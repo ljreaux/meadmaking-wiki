@@ -1,6 +1,6 @@
 ---
-title: Back Sweetening
-description: 
+title: Backsweetening
+description: Adjusting sweetness after fermentation, with stabilization and balance considerations.
 published: true
 date: 2025-11-02T14:33:19.731Z
 tags: 

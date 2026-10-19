@@ -1,6 +1,6 @@
 ---
 title: pH Adjustment
-description: 
+description: Background on acidity, buffers, and the role of pH adjustment in brewing.
 published: true
 date: 2025-11-02T14:33:04.996Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Herbs and Spices
-description: 
+description: Choosing and using herbs and spices as flavor additions in mead.
 published: true
 date: 2025-11-02T14:32:04.843Z
 tags: 

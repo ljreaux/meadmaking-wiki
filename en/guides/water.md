@@ -1,6 +1,6 @@
 ---
-title: Water
-description: 
+title: Water Chemistry
+description: Water minerals, brewing water profiles, and their role in meadmaking.
 published: true
 date: 2025-11-02T14:31:53.414Z
 tags: 

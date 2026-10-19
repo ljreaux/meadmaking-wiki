@@ -1,6 +1,6 @@
 ---
 title: Sanitation
-description: 
+description: Reducing microbial contamination on brewing equipment after cleaning.
 published: true
 date: 2025-11-02T14:33:15.275Z
 tags: 

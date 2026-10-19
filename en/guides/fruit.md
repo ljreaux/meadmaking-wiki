@@ -1,6 +1,6 @@
 ---
-title: Fruit
-description: 
+title: Working with Fruit
+description: An unfinished guide to fruit handling, fruit-heavy meads, pressing, and related techniques.
 published: false
 date: 2025-11-02T15:25:48.687Z
 tags: 

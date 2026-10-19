@@ -1,6 +1,6 @@
 ---
-title: Traditional
-description: 
+title: User Traditional Mead Recipes
+description: Community recipes that showcase honey as the main flavor.
 published: true
 date: 2025-11-02T15:23:55.849Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Stabilization and Backsweetening
-description: 
+description: An introduction to stabilization and adding sweetness after fermentation.
 published: true
 date: 2025-11-02T15:15:45.750Z
 tags: 

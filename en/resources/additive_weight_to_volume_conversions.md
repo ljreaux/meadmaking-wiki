@@ -1,6 +1,6 @@
 ---
-title: Additive Weight To Volume Conversions
-description: 
+title: Additive Weight-to-Volume Conversions
+description: Reference weights and volumes for honey, nutrients, and other brewing additives.
 published: true
 date: 2025-11-02T14:33:37.256Z
 tags: 

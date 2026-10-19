@@ -1,6 +1,6 @@
 ---
 title: Process Summary
-description: 
+description: A reference connecting the main stages and techniques of meadmaking.
 published: true
 date: 2025-11-02T14:33:08.286Z
 tags: 

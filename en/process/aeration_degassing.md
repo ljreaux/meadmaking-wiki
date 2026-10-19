@@ -1,6 +1,6 @@
 ---
-title: Aeration & Degassing
-description: 
+title: Aeration and Degassing
+description: The purposes of adding oxygen and releasing dissolved carbon dioxide during fermentation.
 published: true
 date: 2025-11-02T14:32:25.520Z
 tags: 

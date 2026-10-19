@@ -1,6 +1,6 @@
 ---
 title: Academic Journals
-description: 
+description: Research papers and journals related to fermentation, yeast health, and meadmaking.
 published: true
 date: 2025-11-02T14:33:33.230Z
 tags: 

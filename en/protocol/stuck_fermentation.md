@@ -1,6 +1,6 @@
 ---
-title: Stuck Fermentation
-description: 
+title: Stuck or Sluggish Fermentation
+description: A troubleshooting protocol for fermentations that slow down or stop unexpectedly.
 published: true
 date: 2025-11-02T14:33:30.952Z
 tags: 

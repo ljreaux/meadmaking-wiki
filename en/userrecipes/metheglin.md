@@ -1,6 +1,6 @@
 ---
-title: Metheglin
-description: 
+title: User Metheglin Recipes
+description: Community recipes featuring herbs, spices, flowers, and tea.
 published: true
 date: 2025-11-02T15:23:31.946Z
 tags: 

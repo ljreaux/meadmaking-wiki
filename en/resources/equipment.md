@@ -1,6 +1,6 @@
 ---
-title: Equipment
-description: 
+title: Meadmaking Equipment
+description: An equipment reference covering sanitation, fermentation, measurement, and packaging.
 published: true
 date: 2025-11-02T14:33:43.576Z
 tags: 

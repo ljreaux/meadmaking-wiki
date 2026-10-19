@@ -1,6 +1,6 @@
 ---
 title: Infections & Mold
-description: 
+description: A reference for distinguishing normal fermentation appearances from possible mold or infection.
 published: true
 date: 2025-11-02T14:31:14.693Z
 tags: 

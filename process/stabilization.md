@@ -1,6 +1,6 @@
 ---
 title: Stabilization
-description: 
+description: An overview of chemical stabilization, alcohol tolerance, filtration, and pasteurization.
 published: 1
 date: 2023-09-19T16:12:28.359Z
 tags: 

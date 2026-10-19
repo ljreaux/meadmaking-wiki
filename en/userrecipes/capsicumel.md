@@ -1,6 +1,6 @@
 ---
-title: Capsicumel
-description: 
+title: User Capsicumel Recipes
+description: Community recipes featuring chili peppers and heat.
 published: true
 date: 2025-11-02T15:20:54.039Z
 tags: 

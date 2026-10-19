@@ -1,6 +1,6 @@
 ---
 title: Filtration
-description: 
+description: How filtration works, filter types, and practical equipment considerations.
 published: true
 date: 2025-11-02T14:32:51.665Z
 tags: 

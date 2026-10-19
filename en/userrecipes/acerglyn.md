@@ -1,6 +1,6 @@
 ---
-title: Acerglyn
-description: 
+title: User Acerglyn Recipes
+description: Community recipes featuring honey and maple or other tree syrups.
 published: true
 date: 2025-11-02T15:19:41.206Z
 tags: 

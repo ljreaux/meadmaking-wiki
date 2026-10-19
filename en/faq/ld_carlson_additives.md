@@ -1,6 +1,6 @@
 ---
-title: LD Carlson Additives
-description: 
+title: L.D. Carlson Additives
+description: Background on L.D. Carlson yeast nutrient and energizer products.
 published: true
 date: 2025-11-02T15:15:08.678Z
 tags: 

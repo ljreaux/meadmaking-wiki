@@ -1,6 +1,6 @@
 ---
-title: Chemicals
-description: 
+title: Chemicals in Meadmaking
+description: A discussion of brewing additives, their purposes, and common concerns.
 published: true
 date: 2025-11-02T14:32:12.957Z
 tags: 

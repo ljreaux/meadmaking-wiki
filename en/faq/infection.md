@@ -1,6 +1,6 @@
 ---
-title: Infection
-description: 
+title: Signs of Infection
+description: Compare common fermentation appearances with possible signs of contamination.
 published: true
 date: 2025-11-02T15:17:44.819Z
 tags: 

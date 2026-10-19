@@ -1,6 +1,6 @@
 ---
 title: Style Guidelines
-description: 
+description: An overview of mead style categories and competition classification systems.
 published: true
 date: 2025-11-02T14:31:45.999Z
 tags: 

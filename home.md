@@ -1,6 +1,6 @@
 ---
-title: Main Page
-description: The main page
+title: Modern Meadmaking Wiki
+description: Guides, frequently asked questions, recipes, and resources for making mead.
 published: true
 date: 2026-03-08T15:55:46.469Z
 tags: 

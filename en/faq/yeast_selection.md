@@ -1,6 +1,6 @@
 ---
 title: Yeast Selection
-description: 
+description: A starting point for choosing and sourcing mead yeast.
 published: true
 date: 2025-11-02T15:16:28.347Z
 tags: 

@@ -1,6 +1,6 @@
 ---
-title: Overflow
-description: 
+title: Fermentation Overflow
+description: Why mead overflows and how vessel choice and foam management can help.
 published: true
 date: 2025-11-02T15:16:55.405Z
 tags: 
