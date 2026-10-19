@@ -2,7 +2,7 @@
 title: Finding and Choosing Honey
 description: Where to find honey and what to consider when buying it for mead.
 published: true
-date: 2025-11-02T14:32:09.383Z
+date: 2026-10-19T19:02:40.857Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:57.249Z

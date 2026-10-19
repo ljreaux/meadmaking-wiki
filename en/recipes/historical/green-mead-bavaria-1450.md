@@ -2,10 +2,10 @@
 title: Green Mead from Young Bees' Honey (Bavaria, mid-15th c.)
 description: Pale mead from the honey of young bees, without colouring
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:34:01.337Z
 tags: historical, traditional
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:49.789Z
 ---
 
 ## Green Mead from Young Bees' Honey (Bavaria, mid-15th c.)

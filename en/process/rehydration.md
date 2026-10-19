@@ -2,7 +2,7 @@
 title: Yeast Rehydration
 description: Preparing dry yeast for pitching, including rehydration aids and temperature considerations.
 published: true
-date: 2025-11-02T14:33:11.373Z
+date: 2026-10-19T19:04:05.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:09.187Z

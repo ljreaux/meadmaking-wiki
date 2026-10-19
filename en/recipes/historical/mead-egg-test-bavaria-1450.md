@@ -2,10 +2,10 @@
 title: Egg-Test Mead with Beer Barm (Bavaria, mid-15th c.)
 description: Honey and water adjusted until an egg floats, pitched with beer barm
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:34:00.423Z
 tags: historical, traditional
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:58.438Z
 ---
 
 ## Egg-Test Mead with Beer Barm (Bavaria, mid-15th c.)

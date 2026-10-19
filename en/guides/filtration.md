@@ -2,7 +2,7 @@
 title: Filtration
 description: How filtration works, filter types, and practical equipment considerations.
 published: true
-date: 2025-11-02T14:32:51.665Z
+date: 2026-10-19T19:03:04.054Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:36.537Z

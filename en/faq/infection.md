@@ -2,7 +2,7 @@
 title: Signs of Infection
 description: Compare common fermentation appearances with possible signs of contamination.
 published: true
-date: 2025-11-02T15:17:44.819Z
+date: 2026-10-19T19:02:46.928Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:07.642Z

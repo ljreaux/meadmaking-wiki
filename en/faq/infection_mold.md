@@ -2,7 +2,7 @@
 title: Infections & Mold
 description: A reference for distinguishing normal fermentation appearances from possible mold or infection.
 published: true
-date: 2025-11-02T14:31:14.693Z
+date: 2026-10-19T19:02:49.474Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:10.889Z

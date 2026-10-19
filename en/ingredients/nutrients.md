@@ -2,7 +2,7 @@
 title: Yeast Nutrients
 description: An overview of yeast nutrition and the nutrient products used in meadmaking.
 published: true
-date: 2025-11-02T14:33:24.314Z
+date: 2026-10-19T19:03:24.657Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:09.406Z

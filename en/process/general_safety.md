@@ -2,7 +2,7 @@
 title: General Safety
 description: Safety considerations for equipment, ingredients, fermentation, and packaging.
 published: true
-date: 2025-11-02T14:33:19.731Z
+date: 2026-10-19T19:03:52.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:51.678Z

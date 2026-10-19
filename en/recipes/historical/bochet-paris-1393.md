@@ -2,10 +2,10 @@
 title: Spiced Bochet (Paris, c. 1393)
 description: Caramelized-honey mead with spices from Le Ménagier de Paris
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:33:42.818Z
 tags: historical, bochet
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:40.755Z
 ---
 
 ## Spiced Bochet (Paris, c. 1393)

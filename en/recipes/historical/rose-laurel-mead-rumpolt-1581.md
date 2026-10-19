@@ -2,10 +2,10 @@
 title: Rose and Laurel Berry Mead (Marx Rumpolt, 1581)
 description: Rose-petal mead coloured with caramelized honey, with crushed laurel berries
 published: true
-date: 2026-10-19T00:00:00.000Z
-tags: historical, metheglin, bochet
+date: 2026-10-19T18:34:06.416Z
+tags: historical, bochet, metheglin
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:34:04.182Z
 ---
 
 ## Rose and Laurel Berry Mead (Marx Rumpolt, 1581)

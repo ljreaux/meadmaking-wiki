@@ -2,7 +2,7 @@
 title: Bottling and Kegging
 description: Bottles, closures, kegs, and other options for storing and serving finished mead.
 published: true
-date: 2025-11-02T14:33:01.972Z
+date: 2026-10-19T19:03:57.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:59.604Z

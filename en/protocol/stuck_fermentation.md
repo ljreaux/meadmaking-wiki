@@ -2,7 +2,7 @@
 title: Stuck or Sluggish Fermentation
 description: A troubleshooting protocol for fermentations that slow down or stop unexpectedly.
 published: true
-date: 2025-11-02T14:33:30.952Z
+date: 2026-10-19T19:04:14.517Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:27.710Z

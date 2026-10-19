@@ -2,7 +2,7 @@
 title: User Bochet Recipes
 description: Community recipes featuring caramelized honey.
 published: true
-date: 2025-11-02T15:19:57.666Z
+date: 2026-10-19T19:05:01.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:52.055Z

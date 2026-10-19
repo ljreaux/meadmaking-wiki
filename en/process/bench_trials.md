@@ -2,7 +2,7 @@
 title: Bench Trials
 description: Using small samples to compare additions before adjusting a full batch.
 published: true
-date: 2026-08-12T01:18:31.776Z
+date: 2026-10-19T19:03:43.630Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:37.512Z

@@ -2,7 +2,7 @@
 title: Advanced Nutrients
 description: A link to a separately maintained white paper on advanced mead nutrition.
 published: true
-date: 2025-11-02T14:33:40.216Z
+date: 2026-10-19T19:04:51.219Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:38.170Z

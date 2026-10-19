@@ -2,10 +2,10 @@
 title: Historical Recipes
 description: Medieval and early modern mead recipes in English translation, and how to brew from them
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:34:10.397Z
 tags: historical
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:33.676Z
 ---
 
 ## Historical Recipes

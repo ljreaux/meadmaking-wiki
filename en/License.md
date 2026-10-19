@@ -2,7 +2,7 @@
 title: Wiki Licensing
 description: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license for wiki content.
 published: true
-date: 2025-11-02T14:30:07.626Z
+date: 2026-10-19T19:02:25.028Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:30:03.531Z

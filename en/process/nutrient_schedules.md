@@ -2,7 +2,7 @@
 title: Nutrient Schedules
 description: A comparison of nutrient addition schedules documented as of October 2021.
 published: true
-date: 2025-11-02T14:33:24.314Z
+date: 2026-10-19T19:03:54.790Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:32:56.205Z

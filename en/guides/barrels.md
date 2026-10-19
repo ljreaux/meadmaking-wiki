@@ -2,7 +2,7 @@
 title: Barrels
 description: An unfinished outline covering barrel benefits, sourcing, and maintenance.
 published: false
-date: 2025-11-02T15:02:38.529Z
+date: 2026-10-19T19:02:59.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:31:30.168Z

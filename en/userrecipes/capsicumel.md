@@ -2,7 +2,7 @@
 title: User Capsicumel Recipes
 description: Community recipes featuring chili peppers and heat.
 published: true
-date: 2025-11-02T15:20:54.039Z
+date: 2026-10-19T19:05:06.069Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:59.193Z

@@ -2,10 +2,10 @@
 title: Nutmeg and Cinnamon Mead (Ludwig Neer, 1543)
 description: Light mead with nutmeg and cinnamon
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:34:09.476Z
 tags: historical, metheglin
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:34:07.421Z
 ---
 
 ## Nutmeg and Cinnamon Mead (Ludwig Neer, 1543)

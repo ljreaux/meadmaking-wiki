@@ -2,7 +2,7 @@
 title: Step Feeding
 description: The purposes and timing of adding fermentable sugar in stages.
 published: true
-date: 2025-11-02T14:33:26.516Z
+date: 2026-10-19T19:04:12.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:24.326Z

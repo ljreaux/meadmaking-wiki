@@ -2,7 +2,7 @@
 title: User Acerglyn Recipes
 description: Community recipes featuring honey and maple or other tree syrups.
 published: true
-date: 2025-11-02T15:19:41.206Z
+date: 2026-10-19T19:04:59.646Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-02T14:33:48.812Z

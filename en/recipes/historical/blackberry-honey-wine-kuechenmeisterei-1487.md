@@ -2,10 +2,10 @@
 title: Blackberry Honey Wine, Boiled Twice (Küchenmeisterei, c. 1487)
 description: Honey, blackberries and wine boiled together and fermented twice
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:33:39.826Z
 tags: historical, melomel, pyment
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:37.856Z
 ---
 
 ## Blackberry Honey Wine, Boiled Twice (Küchenmeisterei, c. 1487)

@@ -2,10 +2,10 @@
 title: Juniper and Zedoary Small Mead (Master Hans, 1460)
 description: Juniper-berry water sweetened with honey or sugar, fermented in a pitched cask
 published: true
-date: 2026-10-19T00:00:00.000Z
+date: 2026-10-19T18:33:57.487Z
 tags: historical, metheglin
 editor: markdown
-dateCreated: 2026-10-19T00:00:00.000Z
+dateCreated: 2026-10-19T18:33:55.481Z
 ---
 
 ## Juniper and Zedoary Small Mead (Master Hans, 1460)
