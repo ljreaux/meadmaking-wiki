@@ -32,12 +32,13 @@ After that take fresh laurel berries that still have their skins, crush them and
 
 ### Quantities
 
-Rumpolt uses two units. Frankfurt values (19th century; the size in 1581 is not documented but was probably close):
+Rumpolt uses two units. Despite its name ("quarter"), the *Viertel* is bigger than the *Maß*: it holds four of them, and twenty Viertel make one *Ohm*, the next wine measure up. Frankfurt values (19th century; the size in 1581 is not documented but was probably close):
 
 Unit | Metric | US
 ---|---|---
 1 *Maß* (measure) | about 1.8 l | about ½ gallon (1.9 quarts)
 1 *Viertel* = 4 Maß | about 7.2 l | about 1.9 gallons (7.6 quarts)
+1 *Ohm* = 20 Viertel = 80 Maß | about 143 l | about 38 gallons
 
 The recipe has two ratios:
 
