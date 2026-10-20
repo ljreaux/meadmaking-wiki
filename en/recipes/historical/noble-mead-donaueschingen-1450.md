@@ -36,7 +36,7 @@ And the scum, too, you should boil down by a third, and strain it, and put it in
 
 - ***som*:** a large trade measure for wine and honey (in the region roughly 130–180 l). Only the ratio matters here: 1 honey to 2 water, boiled down by a third.
 - **Notched stick:** the notch marks the starting level, so you can see when a third has boiled away.
-- ***binte*:** a large wooden vessel used for filling casks.
+- ***binte*:** a large wooden vessel with a spout, made for pouring into casks.
 - **No yeast is mentioned:** assume the established cellar yeast of a working cask (see the [introduction](/recipes/historical#the-yeast-cellar-yeast-not-wait-and-see)).
 
 ### Credits

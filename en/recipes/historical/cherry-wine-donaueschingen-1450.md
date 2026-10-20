@@ -31,7 +31,7 @@ And if you want the said cherry wine really good, then eight or ten weeks after 
 ### Notes
 
 - **"Cherry wine"** (*kirswin*) is the name of the drink; the base is honey and unfermented cherry juice, 1 to 2.
-- ***som*:** a large trade measure; only the ratio matters. ***binte*:** a large wooden vessel for filling casks.
+- ***som*:** a large trade measure; only the ratio matters. ***binte*:** a large wooden vessel with a spout, made for pouring into casks.
 - ***lot*:** a small weight, roughly 15 g. Whether the cinnamon gets 2–3 lot in total or in addition to the first lot is open.
 - **No yeast is mentioned:** assume the established cellar yeast of a working cask (see the [introduction](/recipes/historical#the-yeast-cellar-yeast-not-wait-and-see)).
 
