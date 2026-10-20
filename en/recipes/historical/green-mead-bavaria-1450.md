@@ -28,7 +28,7 @@ Take honey from young bees; from it you make a green mead. Do with it as you did
 
 ### Notes
 
-- **Honey from young bees:** *pein* is Bavarian for *Bienen*, bees. Most likely this is honey from a young colony, such as a swarm in its first year, which builds fresh comb that has never held brood. Such honey was later called *Jungfernhonig* ("virgin honey") and counted as the palest, finest grade.
+- **Honey from young bees:** *pein* is Bavarian for *Bienen*, bees. Most likely this is honey from a swarm of the same summer, which builds fresh comb that has never held brood. Later German dictionaries call such swarms *Jungferbienen* ("maiden bees") and their honey *Jungfernhonig* ("virgin honey"), the palest, finest grade (Adelung 1796, Grimm).
 - **"Green"** most likely means young and pale: light honey and no colouring. Other mead recipes of the time colour the mead brown or red with caramelized honey (see [Hopped Red Mead](/recipes/historical/hopped-mead-nuremberg-1389)).
 - **"As you did with the other":** the referenced mead recipe is not the one right before it in either manuscript (that is a sour-cherry sauce). The general mead recipe in the same manuscripts is [Egg-Test Mead with Beer Barm](/recipes/historical/mead-egg-test-bavaria-1450).
 

@@ -28,7 +28,7 @@ Nimm Honig von jungen Bienen; daraus machst du einen grünen Met. Verfahre damit
 
 ### Notizen
 
-- **Honig von jungen Bienen:** *pein* ist das bairische *bîn*, Biene. Gemeint ist sehr wahrscheinlich der Honig eines jungen Volks, etwa eines Schwarms im ersten Jahr, das frische Waben baut, in denen noch nie Brut war. Solcher Honig hieß später *Jungfernhonig* und galt als die hellste und feinste Sorte.
+- **Honig von jungen Bienen:** *pein* ist das bairische *bîn*, Biene. Gemeint ist sehr wahrscheinlich der Honig eines Schwarms desselben Sommers, der frische Waben baut, in denen noch nie Brut war. Spätere Wörterbücher nennen solche Schwärme *Jungferbienen* und ihren Honig *Jungfernhonig*, die hellste und feinste Sorte (Adelung 1796, Grimm).
 - **„Grün“** heißt am ehesten jung und hell: heller Honig und keine Färbung. Andere Met-Rezepte der Zeit färben den Met mit dunkel gekochtem Honig braun oder rot (siehe [Gehopfter roter Met](/recipes/historical/hopped-mead-nuremberg-1389)).
 - **„Wie mit dem anderen“:** Das gemeinte Met-Rezept ist in keiner der beiden Handschriften das unmittelbar vorhergehende (das ist eine Sauerkirschsoße). Das allgemeine Met-Rezept derselben Handschriften ist [Met mit Eiprobe und Bierhefe](/recipes/historical/mead-egg-test-bavaria-1450).
 
